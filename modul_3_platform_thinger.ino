@@ -4,12 +4,12 @@
 
 // KONFIGURASI AWAL
 
-#define USERNAME "Laden" //Username thinger.io
-#define DEVICE_ID "praktikum_03" // Lihat pada setting dari device yang sudah dibuat di thinger.io
-#define DEVICE_CREDENTIAL "jjh1aF-ty?J6$hQT" // Lihat pada setting dari device yang sudah dibuat di thinger.io (Generate random saja)
+#define USERNAME "Cek Thinger.io" //Username thinger.io
+#define DEVICE_ID "Cek Thinger.io" // Lihat pada setting dari device yang sudah dibuat di thinger.io
+#define DEVICE_CREDENTIAL "Cek Thinger.io" // Lihat pada setting dari device yang sudah dibuat di thinger.io (Generate random saja)
 
-#define SSID "KazuyoSan" //Hotspot yang kita pakai
-#define SSID_PASSWORD "akuajayangtau"
+#define SSID "SSID" //Hotspot yang kita pakai
+#define SSID_PASSWORD "PASSWORD"
 
 #define DHTPIN D4 //Pin data dari DHT terhubung ke pin D4 NodeMCU
 #define LEDPIN D8 //Kaki anoda dari LED terhubung ke pin D8 NodeMCU
